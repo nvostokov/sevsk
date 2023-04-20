@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			sevsk
+		</name>
+		<Placemark>
+			<name>
+				Пр. Беломорский
+			</name>
+			<description>
+				Архангельское шоссе –  ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8390714036,64.5754855176,0 39.8457573098,64.5675607609,0 39.8543555319,64.5575364079,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Воронина
+			</name>
+			<description>
+				ул. Первомайская - ул. Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8032026885,64.5650642831,0 39.8115364878,64.5553768122,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Восточный переулок
+			</name>
+			<description>
+				Тургенева - Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8208179376,64.5524898276,0 39.819680681,64.5528862855,0 39.81876873,64.5539649908,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Гагарина
+			</name>
+			<description>
+				ул. Первомайская - ул. Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8093733742,64.5660204505,0 39.8123360914,64.5625698295,0 39.8125935834,64.5623716717,0 39.8131234077,64.5617035312,0 39.8176980496,64.5563356565,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Гайдара
+			</name>
+			<description>
+				Восточный пер. -   Трудовой пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8195419098,64.5528736969,0 39.8141061494,64.5520069812,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Грузовой проезд
+			</name>
+			<description>
+				от ул. Железнодорожная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8626228808,64.5640865915,0 39.8630012482,64.5643792225,0 39.8633111312,64.5644483532,0 39.8670340374,64.5645266888,0 39.8673451736,64.564503649,0 39.8705250203,64.5628470412,0 39.8705733001,64.5626604061,0 39.8691476181,64.56131935,0 39.867178173,64.5596324946,0 39.8600138168,64.5584664213,0 39.8598099689,64.5583972862,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Индустриальная
+			</name>
+			<description>
+				ул. Железнодорожная - ул. Воронина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8089938089,64.5584918035,0 39.8269960922,64.5613261018,0 39.8535215344,64.5655448389,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Матросова
+			</name>
+			<description>
+				от ул. Новая
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8489627639,64.5541427943,0 39.8493278961,64.5543133968,0 39.8562707062,64.5554127776,0 39.8563779946,64.5559705233,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Народная
+			</name>
+			<description>
+				Ул. Южная – ул. Садовая
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.815457708,64.5493030786,0 39.8215731445,64.5474818512,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Николая Островского
+			</name>
+			<description>
+				от ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8171519627,64.5502851647,0 39.8239849782,64.5481965923,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Новая
+			</name>
+			<description>
+				от ул. Коммунальная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8480125583,64.5539871043,0 39.8483451522,64.5540931285,0 39.8493322052,64.5540746895,0 39.8509724639,64.5539640663,0 39.8570033229,64.554955136,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Юдина
+			</name>
+			<description>
+				Архангельское шоссе –  ул. Первомайская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8302883234,64.5741302216,0 39.8338824835,64.5699749768,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Пионерская
+			</name>
+			<description>
+				ул. Первомайская - ул.Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						996825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						996825ea
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							39.8372969137,64.5704911232,0 39.83714671,64.5704749988,0 39.8387213426,64.568572276,0 39.8454458165,64.5607088223,0 39.8449986131,64.5606119658,0 39.8456298117,64.5587639477,0 39.8458458393,64.5579595236,0 39.8459945922,64.5579827197,0 39.8457692866,64.5587869924,0 39.8477112059,64.5590289609,0 39.8496735275,64.556726587,0 39.8497230604,64.5567427088,0 39.8478292231,64.5590427876,0 39.8457818181,64.5587868848,0 39.845266834,64.5605704881,0 39.8456625478,64.5606834104,0 39.838893004,64.568597616,0 39.8372969137,64.5704911232,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Полярная
+			</name>
+			<description>
+				ул. Первомайская - ул. Садовая
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8265934925,64.5687840168,0 39.8322608242,64.562183304,0 39.8384055892,64.5549563995,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Промышленный проезд
+			</name>
+			<description>
+				Пр. Грузовой - БПК
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8660841351,64.5570510715,0 39.8643450082,64.5591181074,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Профсоюзная
+			</name>
+			<description>
+				ул. Первомайская - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8318995571,64.5696590524,0 39.8376114091,64.5630240222,0 39.8403125695,64.5598487894,0 39.8406558923,64.5599087033,0 39.8447113923,64.5572401034,0 39.8451405457,64.5569451126,0 39.8458271912,64.5561154339,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пер. Русановский
+			</name>
+			<description>
+				пр. Ленина - ул. Г. Седова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8246068988,64.5539201735,0 39.832327614,64.5551091421,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Республиканская
+			</name>
+			<description>
+				ул. Железнодорожная - пр. Ленина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.826057313,64.5625088831,0 39.8366119814,64.5641770638,0 39.8472256584,64.5658520539,0 39.8525064002,64.5667090174,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Торцева
+			</name>
+			<description>
+				ул. Торцева, 1а  -  ул. Капитана Воронина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8049376823,64.5631983501,0 39.8229327985,64.5660530013,0 39.8532791136,64.5708839033,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Труда (нечетная сторона)
+			</name>
+			<description>
+				Ул. Первомайская – ул. Тургенева
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7952107611,64.5637949269,0 39.7974530878,64.5612396167,0 39.7983811321,64.5600943729,0 39.798839614,64.5596058223,0 39.7989898177,64.5594629489,0 39.8054618121,64.5518849568,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Трудовой переулок
+			</name>
+			<description>
+				ул. Тургенева - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8158282046,64.5498425505,0 39.8139746223,64.5519863073,0 39.8138780628,64.5521914558,0 39.8138566051,64.5523781626,0 39.8132422033,64.5530419771,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Тургенева
+			</name>
+			<description>
+				ул. Седова - пр. Труда
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8041131504,64.551628905,0 39.8235538013,64.5547382774,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Чехова
+			</name>
+			<description>
+				ул. Ломоносова - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8183402801,64.550957045,0 39.8181471611,64.5510285041,0 39.8173800493,64.5518445073,0 39.8168811584,64.5524622562,0 39.8159209276,64.5535225389,0 39.8140941674,64.5556821395,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Некрасова
+			</name>
+			<description>
+				ул. Садовая-ул. Народная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8191055893,64.5482726998,0 39.8206505417,64.5492271027,0 39.8206612705,64.5493008716,0 39.8214337467,64.5497803644,0 39.8222156986,64.5502437233,0 39.8242756351,64.550919137,0 39.8267808183,64.5513110075,0 39.830152531,64.5518319777,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				1-Южный пер.
+			</name>
+			<description>
+				от ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8241497472,64.5527447663,0 39.8267754539,64.5496789447,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				2-Южный пер.
+			</name>
+			<description>
+				от ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8229245054,64.5525442967,0 39.8242589924,64.5509192339,0 39.8255840036,64.5494531269,0 39.8254672396,64.5493493792,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				3-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до ул. Некрасова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8216720897,64.5523483925,0 39.8224969569,64.5514586522,0 39.822908764,64.5509446227,0 39.8232669268,64.5506380487,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				4-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 3-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8197030735,64.5516868961,0 39.8213660431,64.5512028265,0 39.8216383753,64.5511913117,0 39.8224644956,64.5514517884,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				5-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 2-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8188884844,64.5512454882,0 39.8221983303,64.5502358313,0 39.8246110653,64.5495004749,0 39.825222609,64.549260727,0 39.8254466614,64.549329896,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				6-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 5-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8180907911,64.5507798843,0 39.8214274591,64.5497702102,0 39.8244637197,64.5488803751,0 39.8246997541,64.5489080388,0 39.8252040094,64.5492446116,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Садовая
+			</name>
+			<description>
+				Ул. Некрасова - пр.Ленина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8338235738,64.553355639,0 39.831259382,64.5529868475,0 39.8307819488,64.5528393295,0 39.8304278972,64.5526595408,0 39.8302347781,64.552486666,0 39.8302025916,64.5522377243,0 39.8302372844,64.5518573708,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд вдоль в/ч
+			</name>
+			<description>
+				Ул. Железнодорожная - д.23в
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8599598208,64.5655172346,0 39.8575900012,64.5651485969,0 39.8544720212,64.5646440413,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Строителей
+			</name>
+			<description>
+				Ул.Профсоюзная – ул.Пионерская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8440781865,64.5576656045,0 39.8459289108,64.5579628921,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Арктическая
+			</name>
+			<description>
+				ул. К.Маркса – ул.Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7668424654,64.5543305851,0 39.7681245613,64.5529153709,0 39.771494669,64.5489758838,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Коновалова
+			</name>
+			<description>
+				ул. Ломоносова - ул. С.Космонавтов
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.768298982,64.5483939001,0 39.7727081818,64.5432063238,0 39.7728852076,64.5430495296,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Морской
+			</name>
+			<description>
+				ул. К.Маркса – до жд переезда (до УЗП)
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						15.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7773174264,64.5560076808,0 39.7780949152,64.550701685,0 39.7774511851,64.5503812665,0 39.7770434893,64.5500585389,0 39.7773170746,64.5496343769,0 39.777976898,64.5494822302,0 39.7781646527,64.5492517034,0 39.7789396352,64.5432526872,0 39.7791125497,64.5427592338,0 39.7792239493,64.5432480756,0 39.7789440982,64.5454685111,0 39.778402292,64.5493162834,0 39.7786705129,64.5495468097,0 39.7791854971,64.5497404503,0 39.7793732517,64.5499479209,0 39.7792659633,64.5501899679,0 39.7788689964,64.5504112661,0 39.7783540123,64.5505564921,0 39.7782199018,64.5506486987,0 39.7776500203,64.5549428852,0 39.7779933431,64.5554637644,0 39.7787658193,64.5562565881,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Портовая
+			</name>
+			<description>
+				ул. Первомайская - Архангельское шоссе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7876732042,64.5666588259,0 39.7876753587,64.566462937,0 39.7877356205,64.5660390195,0 39.7881127347,64.5655345019,0 39.7890180682,64.564504649,0 39.7904342746,64.5630623138,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				б-р Строителей
+			</name>
+			<description>
+				ул. Карла Маркса - ул. Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7547747346,64.552434978,0 39.7539230453,64.5522989714,0 39.7529896365,64.5520730784,0 39.752238618,64.5517688114,0 39.7517343627,64.5514691512,0 39.7513976575,64.551231715,0 39.7510234014,64.5507891193,0 39.7509227306,64.5505032686,0 39.7508851797,64.5501920685,0 39.7509722635,64.5498347496,0 39.7512190268,64.5494520788,0 39.7517769263,64.549032518,0 39.7527813256,64.5484653982,0 39.7571958898,64.5459408855,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Советских Космонавтов
+			</name>
+			<description>
+				пр.Морской – ул. Коновалова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7788266306,64.5432341978,0 39.7733602886,64.5430589575,0 39.7728506689,64.5430589575,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Трухинова
+			</name>
+			<description>
+				ул. Карла Маркса - ул. Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.759660664,64.5532001013,0 39.7619323191,64.5505469592,0 39.7640001263,64.5481517618,0 39.7643273558,64.5477944269,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд к пр. Морскому 35
+			</name>
+			<description>
+				от пр. Морской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7839124507,64.5468610036,0 39.7796976231,64.5461832162,0 39.7788768671,64.5461232721,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд к ул. К. Маркса в районе дома № 63а
+			</name>
+			<description>
+				от ул. Карла Маркса
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.762458208,64.5536253693,0 39.7629410056,64.5530698806,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				участок внутриквартального проезда в районе дома № 107 по ул. Ломоносова
+			</name>
+			<description>
+				от ул. Ломоносова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7637921454,64.5464424351,0 39.7634595515,64.5468989234,0 39.7629363448,64.5475743984,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пл. Привокзальная
+			</name>
+			<description/>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8478813548,64.5722013982,0 39.8482717041,64.572404102,0 39.8490227226,64.5726528595,0 39.8500848774,64.5729407705,0 39.848963714,64.5735764672,0 39.8486954931,64.5735994994,0 39.8469520573,64.5733185051,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд пр. Труда в районе дома № 26 квартала  № 88
+			</name>
+			<description/>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7916380587,64.5582600589,0 39.7919384661,64.5578982474,0 39.7924480858,64.5579673837,0 39.7928665104,64.5574304202,0 39.7927055779,64.5573497595,0 39.792861146,64.5563541568,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Ленина
+			</name>
+			<description>
+				Архангельское шоссе - озеро
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8179244106,64.572122897,0 39.8215632452,64.5676450418,0 39.8210804475,64.5678961465,0 39.8210012344,64.5683131026,0 39.8216042037,64.5679352341,0 39.8215720172,64.5676426628,0 39.8259197021,64.5625854985,0 39.829267099,64.5586796823,0 39.8298142696,64.5584861051,0 39.830243423,64.5582902221,0 39.8301468635,64.5580943377,0 39.8300717617,64.5577647878,0 39.8331856304,64.5541694174,0 39.8365677201,64.5502324059,0 39.8363168456,64.5501079143,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Железнодорожная
+			</name>
+			<description>
+				Архангельское шоссе - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8443191346,64.5763319895,0 39.849531744,64.5702813333,0 39.8597278977,64.5583695999,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. К. Маркса
+			</name>
+			<description>
+				Ул. Гагарина –б. Строителей
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7547766361,64.552435944,0 39.7668320884,64.5543490669,0 39.7883664673,64.5577623648,0 39.7974888361,64.5592349598,0 39.7989898177,64.5594629489,0 39.8130538709,64.5616960063,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Ломоносова (включая парковку на пл. Корабелов у ЗАГС)
+			</name>
+			<description>
+				Ул. Железнодорожная – буль. Строителей
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7572015072,64.5459467535,0 39.7580304857,64.5461727188,0 39.7618082891,64.5473761727,0 39.776242839,64.5496932324,0 39.7767363655,64.5498638197,0 39.7770367729,64.5500943414,0 39.7773586379,64.5503525234,0 39.7780989276,64.5504954446,0 39.7787265645,64.5504516462,0 39.7793649303,64.5502902834,0 39.7802446948,64.550322556,0 39.7903376715,64.5519384234,0 39.8021068528,64.5537892738,0 39.8284647449,64.5580091883,0 39.8287597879,64.558124415,0 39.829108475,64.5583802164,0 39.8294303401,64.558474701,0 39.8299131377,64.5584723966,0 39.8303208335,64.5583756074,0 39.8307607158,64.5583525623,0 39.856284265,64.562398937,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Советская
+			</name>
+			<description>
+				Советская 1 - ул. Гагарина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8126379526,64.5624056927,0 39.8239184224,64.5642213692,0 39.8249698483,64.5643043135,0 39.8510305429,64.5684166968,0 39.8510205177,64.5685480911,0 39.8543171285,64.5690963751,0 39.8547945617,64.5691885189,0 39.8554366869,64.5693497377,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Южная 2
+			</name>
+			<description>
+				ул. Седова - путепровод
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8095025275,64.5456171339,0 39.8098392327,64.545665562,0 39.8102361996,64.5457946742,0 39.8111965574,64.5465344145,0 39.8133208669,64.5480560076,0 39.8160806841,64.5496673988,0 39.8183337397,64.5509606097,0 39.8209247536,64.5524635157,0 39.8240629381,64.5542360085,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Южная 1
+			</name>
+			<description>
+				ул. Железнодорожная - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8206118147,64.5522100854,0 39.8253807823,64.5529592093,0 39.8327890436,64.5541393259,0 39.8334327737,64.5541577648,0 39.8384245406,64.5549368192,0 39.849703955,64.5567390362,0 39.8594119466,64.5582876818,0 39.8597094959,64.5583729272,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Первомайская
+			</name>
+			<description>
+				Ул. Железнодорожная –Архангельское шоссе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7809282511,64.5616856272,0 39.7812611968,64.5617017999,0 39.7823315741,64.5618170324,0 39.7846452432,64.5621373489,0 39.7904568647,64.5630613884,0 39.8031841224,64.5650935601,0 39.8202916033,64.567809812,0 39.8213966735,64.5678743158,0 39.8221906073,64.5681139,0 39.8478062529,64.572174895,0 39.822191311,64.5681139861,0 39.8211988936,64.5680610013,0 39.8202815781,64.5678122018,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Архангельское шоссе
+			</name>
+			<description>
+				Пр. Морской – Узловой пр
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						30.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7773116549,64.5561145087,0 39.7773735216,64.5583315599,0 39.7777610128,64.5593823858,0 39.782716482,64.5632904162,0 39.7857634714,64.5657418595,0 39.7899773977,64.5675849262,0 39.7914257905,64.5679443055,0 39.7963288686,64.5686814789,0 39.8179007985,64.5721551725,0 39.8443316379,64.5763515816,0 39.8679147186,64.5800911825,0 39.8844283105,64.5827602454,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Проезд, соединяющий Ягринское шоссе и Архангельское шоссе
+			</name>
+			<description/>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8646846688,64.5811795546,0 39.8637405312,64.5822387204,0 39.8630216992,64.5828097318,0 39.8600068963,64.5862631744,0 39.8595174811,64.5869860504,0 39.8594638369,64.5872277686,0 39.8594811833,64.5877825505,0 39.8593458197,64.5880541983,0 39.8590454123,64.5883373425,0 39.8585894368,64.5885859545,0 39.8571505196,64.5891038997,0 39.8564695903,64.5895320944,0 39.8557639934,64.5898888608,0 39.8517410317,64.591355138,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Труда
+			</name>
+			<description>
+				Ул. Первомайская - Св. опора 101
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7938213768,64.5635507163,0 39.7974774036,64.5592394826,0 39.8021043901,64.5538004969,0 39.8040375373,64.5516246655,0 39.8075206496,64.5475029069,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Орджоникидзе
+			</name>
+			<description>
+				Ул. Первомайская –ул. Ломоносова - Арханельское шоссе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7826715663,64.5631086757,0 39.7846456721,64.5621294127,0 39.7883625102,64.5577694507,0 39.7905644279,64.555234297,0 39.7930131088,64.5524038676,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Героев-Североморцев
+			</name>
+			<description>
+				ул. Заводская - ул. Звездная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8326175799,64.5348659934,0 39.8329662671,64.5348636869,0 39.8391035131,64.5358232149,0 39.8394951156,64.5358993265,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Заводская
+			</name>
+			<description>
+				ул. Юбилейная – ул. Г.-Североморцев
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8389767239,64.5442058164,0 39.8390723821,64.5438600123,0 39.8391474839,64.5433412171,0 39.839327016,64.541365072,0 39.8394346562,64.539603316,0 39.8395728779,64.5370319106,0 39.8395984469,64.5362247003,0 39.8395930824,64.5360724788,0 39.8395394383,64.5359179501,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Звездная
+			</name>
+			<description>
+				ул. Г.-Североморцев - пр.Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8257291947,64.5402951439,0 39.8273925161,64.5384087845,0 39.8277948475,64.5379383167,0 39.8279665089,64.5377999422,0 39.8309974051,64.5366467945,0 39.8311797953,64.5365268644,0 39.8325691795,64.5348800777,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Кирилкина (четная)
+			</name>
+			<description>
+				ул. Юбилейная - пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7949828068,64.5353958521,0 39.7947294261,64.5354073951,0 39.7944772984,64.535474282,0 39.791039256,64.5393717958,0 39.7884775704,64.5423741691,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Кирилкина (нечетная)
+			</name>
+			<description>
+				Ул. Юбилейная – ул.Лебедева
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7950223146,64.5368351142,0 39.7923479763,64.5399369278,0 39.7908652424,64.5416549575,0 39.7902154442,64.5424365673,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Лебедева (четная)
+			</name>
+			<description>
+				ул. Юбилейная – ул. Кирилкина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8064388516,64.5429809159,0 39.7992480251,64.5377462495,0 39.7990656349,64.5375663613,0 39.7990180588,64.5374442151,0 39.7950485871,64.5368190669,0 39.7936109231,64.536595352,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Лебедева (нечетная)
+			</name>
+			<description>
+				ул. Юбилейная – пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8105626382,64.5427896839,0 39.806558276,64.5421371492,0 39.8062578686,64.5420356902,0 39.8006656388,64.5379632086,0 39.800515435,64.5377625656,0 39.8004712666,64.5375826882,0 39.8005463684,64.5373612859,0 39.8006404216,64.5372021734,0 39.800888438,64.5369184866,0 39.8011607702,64.5366025295,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. М. Кудьма
+			</name>
+			<description>
+				ул. Кирилкина - пр.Морской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7926943331,64.5373690549,0 39.785444498,64.5362043786,0 39.7849295139,64.5361905403,0 39.7826281785,64.5365480273,0 39.7799636678,64.5365134643,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Победы
+			</name>
+			<description>
+				Проезд от пр. Победы до ул. Лебедева вдоль р. Забориха
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7990643437,64.5374034845,0 39.7995417769,64.5368937918,0 39.7999441083,64.5364232978,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Чеснокова
+			</name>
+			<description>
+				ул. Юбилейная - пр. Морской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7799362191,64.5365123024,0 39.7770287046,64.5364569498,0 39.7766478309,64.5364615626,0 39.7762186774,64.5364984643,0 39.7757680663,64.5365999438,0 39.7733701715,64.5374601981,0 39.7708757171,64.5383642431,0 39.7704143771,64.5384910837,0 39.7696633586,64.5385579631,0 39.767512227,64.5385210641,0 39.7673566588,64.5385418198,0 39.7672118196,64.5385925558,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Морской
+			</name>
+			<description>
+				ЖД переезд (от УЗП) – до съезда на Солзенское шоссе
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						30.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7886878935,64.5226038599,0 39.788643725,64.5228277003,0 39.7885900809,64.5230169156,0 39.7881637855,64.5236722582,0 39.7876929699,64.5244636882,0 39.7843677344,64.5284760028,0 39.7826312679,64.5303908068,0 39.7805312741,64.5328867508,0 39.7803803668,64.5334218049,0 39.7792318318,64.542201779,0 39.7791476497,64.5427226109,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Окружная дорога (соединение ул. Окружной с  ул. Юбилейной)
+			</name>
+			<description>
+				ул. Окружная - ул. Юбилейная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8799083441,64.5547516373,0 39.8782346456,64.5540993672,0 39.8733612478,64.5521793655,0 39.8691879282,64.5505149423,0 39.8588973695,64.5464644224,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд от  ул. Кирилкина в районе дома № 5 до школы № 13
+			</name>
+			<description>
+				от ул. Кирилкина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7999032159,64.5394642738,0 39.7980916476,64.5391645107,0 39.7965896105,64.5393513067,0 39.7958761429,64.539441245,0 39.7951680397,64.5395703868,0 39.7930008148,64.5399947053,0 39.792464373,64.5399439719,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе дома № 37 по пр. Победы
+			</name>
+			<description>
+				от пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8106268416,64.5378870348,0 39.8110238086,64.5374119454,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе дома № 53 по пр. Победы
+			</name>
+			<description>
+				от пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8079998818,64.5374627167,0 39.8083183392,64.5370822541,0 39.8059901818,64.5367086297,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе домов № 64, 68 по пр. Труда
+			</name>
+			<description>
+				от пр. Труда
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.809609559,64.5399049959,0 39.8128831071,64.5404123155,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд во внутриквартальной территории в районе дома № 13 по ул. Лебедева
+			</name>
+			<description>
+				от ул. Лебедева
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8033596602,64.5391946744,0 39.8026461926,64.5393353479,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				участок внутриквартального проезда в районе дома № 56 пр. Морской  квартала № 151
+			</name>
+			<description>
+				от пр. Морского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7794500201,64.5390054533,0 39.7763064712,64.5389454935,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				участок внутриквартального проезда в районе дома № 50 пр. Морской  квартала № 151
+			</name>
+			<description>
+				от пр. Морского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7793443367,64.5398426036,0 39.7788293526,64.5398333793,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд вдоль дома № 21 по  ул. Чеснокова
+			</name>
+			<description>
+				от ул. Чеснокова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7724188731,64.5377439955,0 39.7718461335,64.5374211077,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Победы (включая территорию общего пользования в районе дома № 2 по ул. Звездной со стороны пр. Победы)
+			</name>
+			<description>
+				ул. Юбилейная - пр.Морской
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						25.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8325687558,64.5438778508,0 39.82770734,64.5407072946,0 39.8238639103,64.5400846888,0 39.8257307278,64.5402507241,0 39.8258916604,64.540052404,0 39.8238531815,64.5397295542,0 39.8236064183,64.5400385677,0 39.8150794999,64.538687163,0 39.8060887353,64.5372665243,0 39.8000054853,64.5363486047,0 39.7963684098,64.5357074265,0 39.7949307458,64.5354629445,0 39.794265558,64.5354260414,0 39.7867015744,64.5342403186,0 39.7809199849,64.5333430461,0 39.7805326478,64.5334147452,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Ул. Юбилейная
+			</name>
+			<description>
+				ул. Заводская - ул. Чеснокова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.838976575,64.5442166299,0 39.8372520905,64.5440921431,0 39.8264497575,64.5437186471,0 39.8190629539,64.5434765426,0 39.8138004598,64.5432690228,0 39.8103833255,64.543135287,0 39.8064673004,64.543008468,0 39.79932726,64.5427801922,0 39.7933781204,64.5425634437,0 39.7884535846,64.54240434,0 39.7809301643,64.5421437984,0 39.7792502001,64.5421507699,0 39.7773458317,64.542070064,0 39.7742559269,64.5419778284,0 39.773268874,64.5419247928,0 39.7723730162,64.5418048859,0 39.7716917351,64.5416480837,0 39.7708495214,64.5413667598,0 39.7698463753,64.5409170968,0 39.7686608389,64.5403659613,0 39.7681887701,64.5400846242,0 39.7677596167,64.5397802234,0 39.7674645737,64.5394527582,0 39.767212446,64.5388024283,0 39.7671856239,64.5386317718,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Пр. Труда
+			</name>
+			<description>
+				Св. опора 101 - пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						30.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8150527946,64.5387190625,0 39.812735366,64.5415555029,0 39.813524485,64.5417075969,0 39.8124363325,64.5431702432,0 39.8137950145,64.5415347711,0 39.8132841416,64.540771508,0 39.8118906461,64.5412949532,0 39.8104560379,64.5430265491,0 39.8119580749,64.5412786931,0 39.8125910762,64.5417075969,0 39.8094606855,64.5452730774,0 39.808431069,64.5465665397,0 39.8075942198,64.5474979481,0 39.8075942198,64.5463913207,0 39.8092464606,64.5453399832,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+
