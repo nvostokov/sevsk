@@ -16,4 +16,4 @@ var customLayer = L.geoJson(null, {
       layer.bindPopup(feature.properties.name);
 }
 });
-omnivore.kml('./kml/sevsk.kml', null, customLayer).addTo(map); 
+omnivore.kml('./kml/sevsk2.kml', null, customLayer).addTo(map); 
