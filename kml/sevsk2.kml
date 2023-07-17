@@ -854,6 +854,29 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд от ул. Кирилкина до въезда МЧС-58  квартала № 152
+			</name>
+			<description>
+				Кирилкина ул., Северодвинск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						30.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7909988031,64.5393708427,0 39.788391696,64.5392924347,0 39.787672864,64.5393800672,0
+				</coordinates>
+			</LineString>
+		</Placemark>
 	</Document>
 </kml>
 
